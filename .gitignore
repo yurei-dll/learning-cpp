@@ -1,3 +1,6 @@
+# Don't share my personal preferences
+.vscode/
+
 # Prerequisites
 *.d
 
